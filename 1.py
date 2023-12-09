@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 @tail_call_optimized
 def fib(i, current = 0, next = 1):
     if i == 0:
